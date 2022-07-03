@@ -1,0 +1,19 @@
+.background-radial-gradient {
+    background-image: url("static/moviestream.jpg");
+    
+}
+.bg-glass {
+    background: radial-gradient(#76b2fe, #b69efe) !important;
+backdrop-filter: saturate(200%) blur(25px);
+border-radius: 2rem;
+}
+h1{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: brown;
+}
+#sign{
+text-align: center;
+}
+
+
+
