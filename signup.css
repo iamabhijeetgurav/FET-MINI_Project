@@ -1,19 +1,44 @@
 .background-radial-gradient {
     background-image: url("static/moviestream.jpg");
-    
+
 }
+
 .bg-glass {
     background: radial-gradient(#76b2fe, #b69efe) !important;
-backdrop-filter: saturate(200%) blur(25px);
-border-radius: 2rem;
-}
-h1{
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-color: brown;
-}
-#sign{
-text-align: center;
+    backdrop-filter: saturate(200%) blur(25px);
+    border-radius: 0.5rem;
 }
 
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
 
+#sign {
+    text-align: center;
+}
 
+label {
+    width: 100%;
+}
+
+.card-input-element {
+    display: none;
+    
+}
+
+.card-input {
+    text-align: center;
+    margin: 10px;
+    padding: 00px;
+    background-color: white;
+    border-radius: 0.2rem;
+}
+
+.card-input:hover {
+    cursor: pointer;
+}
+
+.card-input-element:checked+.card-input {
+    box-shadow: 0 0 1px 3px #412cb9;
+}
