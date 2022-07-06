@@ -1,0 +1,282 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "first_name": "Abhijeet",
+      "last_name": "Gurav",
+      "email": "iamabhijeetgurav@gmail.com",
+      "password": "abhi@123",
+      "mobile": "9850909703",
+      "subscription": "premium"
+    },
+    {
+      "first_name": "Mugdha",
+      "last_name": "Kulkarni",
+      "email": "mug@mail.com",
+      "password": "mug@123",
+      "mobile": "9850909703",
+      "subscription": "Premium",
+      "id": 2
+    },
+    {
+      "first_name": "ABhijeet",
+      "last_name": "gurav",
+      "email": "iamabhijeetgurav@gmail.com",
+      "password": "abhi@123",
+      "mobile": "9850909703",
+      "subscription": "Premium",
+      "id": 3
+    },
+    {
+      "first_name": "Priti",
+      "last_name": "Bhosale",
+      "email": "priti@mail.com",
+      "password": "priti@123",
+      "mobile": "9850909703",
+      "subscription": "Premium",
+      "id": 4
+    },
+    {
+      "first_name": "Ajit",
+      "last_name": "Hirave",
+      "email": "ajit@mail.com",
+      "password": "ajit@123",
+      "mobile": "9898989090",
+      "subscription": "Premium",
+      "id": 5
+    },
+    {
+      "first_name": "akash",
+      "last_name": "kadam",
+      "email": "aka@mail.com",
+      "password": "akash@123",
+      "mobile": "9850509898",
+      "subscription": "Premium",
+      "id": 6
+    },
+    {
+      "first_name": "abhilasha",
+      "last_name": "xyz",
+      "email": "abhi@mail.com",
+      "password": "abhi@123",
+      "mobile": "9850909703",
+      "subscription": "Premium",
+      "id": 7
+    },
+    {
+      "first_name": "Sonali",
+      "last_name": "Mendhe",
+      "email": "sonali@mail.com",
+      "password": "sonali@123",
+      "mobile": "9850909703",
+      "subscription": "Premium",
+      "id": 8
+    },
+    {
+      "first_name": "ABhijeet",
+      "last_name": "abHIJEET",
+      "email": "abhijeet@mail.com",
+      "password": "abhi@123",
+      "mobile": "1234567890",
+      "subscription": "Premium",
+      "id": 9
+    },
+    {
+      "first_name": "anup",
+      "last_name": "patil",
+      "email": "anup",
+      "password": "anup@123",
+      "mobile": "9850909703",
+      "subscription": "Standard",
+      "id": 10
+    },
+    {
+      "first_name": "anup",
+      "last_name": "patil",
+      "email": "anup@mail.com",
+      "password": "anup@123",
+      "mobile": "9850909703",
+      "subscription": "Standard",
+      "id": 11
+    },
+    {
+      "first_name": "anup",
+      "last_name": "patil",
+      "email": "anup@mail.com",
+      "password": "anup@123",
+      "mobile": "9850909703",
+      "subscription": "Kids",
+      "id": 12
+    },
+    {
+      "first_name": "Venkata",
+      "last_name": "Reddy",
+      "email": "venkata@mail.com",
+      "password": "ven@123",
+      "mobile": "9850909703",
+      "subscription": "Premium",
+      "id": 13
+    },
+    {
+      "first_name": "Sagar",
+      "last_name": "Palkar",
+      "email": "sagar@mail.com",
+      "password": "sag@123",
+      "mobile": "9850909703",
+      "subscription": "Standard",
+      "id": 14
+    },
+    {
+      "first_name": "abhishek",
+      "last_name": "kulkarni",
+      "email": "abhi@mail.com",
+      "password": "abh@123",
+      "mobile": "9850909703",
+      "subscription": "Premium",
+      "id": 15
+    },
+    {
+      "first_name": "abc",
+      "last_name": "xyz",
+      "email": "abc@mail.com",
+      "password": "abc@123",
+      "mobile": "9850909703",
+      "subscription": "Standard",
+      "id": 16
+    },
+    {
+      "first_name": "asd",
+      "last_name": "asd",
+      "email": "abc@mail.com",
+      "password": "asd@123",
+      "mobile": "9850909703",
+      "subscription": "Standard",
+      "id": 17
+    },
+    {
+      "first_name": "some",
+      "last_name": "name",
+      "email": "some@mail.com",
+      "password": "some@123",
+      "mobile": "9850909703",
+      "subscription": "Premium",
+      "id": 18
+    }
+  ],
+  "movies": [
+    {
+      "title": "Her",
+      "description": "Her (stylised in lowercase) is a 2013 American science-fiction romantic drama film written, directed, and co-produced by Spike Jonze. It marks Jonze's solo screenwriting debut.",
+      "genre": "romantic drama",
+      "language": "English"
+    },
+    {
+      "title": "Star Wars",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "English"
+    },
+    {
+      "title": "Warcraft",
+      "description": "Warcraft (alternatively known as Warcraft: The Beginning)[4] is a 2016 American action fantasy film based on the video game series of the same name. Directed by Duncan Jones and written by Charles Leavitt and Jones.",
+      "genre": "sci-fi action",
+      "language": "English"
+    },
+    {
+      "title": "1917",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "English"
+    },
+    {
+      "title": "Avengers",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "English"
+    },
+    {
+      "title": "Tumbbad",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "Horror",
+      "language": "Marathi"
+    },
+    {
+      "title": "Conjuring",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "Horror",
+      "language": "English"
+    },
+    {
+      "title": "Annabelle",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "Horror",
+      "language": "English"
+    },
+    {
+      "title": "The Nun",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "Horror",
+      "language": "English"
+    },
+    {
+      "title": "Swades",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "Hindi"
+    },
+    {
+      "title": "Dil Chahta Hai",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "Hindi"
+    },
+    {
+      "title": "Raanjhanaa",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "Hindi"
+    },
+    {
+      "title": "Wazir",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "Hindi"
+    },
+    {
+      "title": "Tamasha",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "Hindi"
+    },
+    {
+      "title": "Arjun Reddy",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "Tamil"
+    },
+    {
+      "title": "Geetha Govindam",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "Tamil"
+    },
+    {
+      "title": "Jersey",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "Hindi"
+    },
+    {
+      "title": "Kabali",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "Tamil"
+    },
+    {
+      "title": "Ekk Deewana Tha",
+      "description": "Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. ",
+      "genre": "sci-fi action",
+      "language": "Tamil"
+    }
+  ]
+}
